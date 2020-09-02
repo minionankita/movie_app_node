@@ -1,4 +1,4 @@
 # movie_app_node
 To start application
 
-# nodeindex.js 
+1) node index.js 
